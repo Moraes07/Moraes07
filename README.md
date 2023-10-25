@@ -2,12 +2,11 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otavio-rosa-rodrigues/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5515981201158?text=Ol%C3%A1!%20Eu%20sou%20o%20Otavio%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Moraess07_/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_taaaavin/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:otaviorosa.rdr@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/1113359607314784326/1113359608153636886)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OtavioRdR)
 ![Otavio GitHub stats](https://github-readme-stats.vercel.app/api?username=OtavioRdR&show_icons=true&theme=synthwave)
-
 
 ## Tecnologias que eu utilizo 👨‍💻
 
